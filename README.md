@@ -1,3 +1,8 @@
+
+Yooka Laylee 64 Editor- Unity 2017
+Hi, I compiled the game files from the purchased game and added them to the Unity 2017 editor and you can enjoy editing gey Yooka Laylee.
+Here are the instructions
+
 PT-Portugal
 
 Manual do usuário do arquivo Yooka Layalee
